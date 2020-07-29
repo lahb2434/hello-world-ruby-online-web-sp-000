@@ -1,1 +1,1 @@
-putc "Hello World!"
+puts "Hello World!"
